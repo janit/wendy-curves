@@ -1,0 +1,9 @@
+services:
+  wendy-curves:
+    build: .
+    container_name: wendy-curves
+    restart: unless-stopped
+    network_mode: host
+    env_file: .env
+    volumes:
+      - ./data:/app/data
