@@ -1,4 +1,6 @@
-# wendy-curves — Wind Turbine Power Curve Tuning Tool (Deno + Fresh)
+# wendy-curves
+
+##  Wind Turbine Power Curve Tuning Tool
 
 Power-curve tuning tool for a wind turbine driving a **Morningstar TriStar
 600V MPPT** charge controller. Built with **Deno + Fresh**, SQLite, and
